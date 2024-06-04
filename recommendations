@@ -1,0 +1,14 @@
+#Recommendations for store based on results from SQL queries 
+
+* Expand marketing in the countries of the United States, Canada, Brazil, France and Germany. 
+  These 5 countries top the number of invoices, indicating high demand in these countries.
+
+* If loyalty programs do not exist, it is something that should be discussed for implementation. 
+  This is to reward highly-spent customers to increase the number of repeat purchases.
+
+* Rock is clearly the most popular genre among countries that shop off the store. 
+  Target rock listeners with personalized and special offers to increase sales.
+
+* SQL query 9 provides insights into which artists/bands are most spent on by customers. 
+  Use the information for future collaborations and marketing, 
+  this to increase utility among customers and generate a more targeted marketing where customers are met.
