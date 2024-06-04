@@ -20,7 +20,7 @@ Copy and paste provided SQL queries
 
 Execute to perform analysis 
 
-# Business tasks to be solved: 
+# Tasks to be solved
 
 Q1. Who is the senior most employee based on jobtitle? 
 
@@ -50,7 +50,7 @@ Q10. Write a query that determines the customer that has spent the most on music
      For countries where the top amount spent is shared, provide all customers who spent this amount.
 
 # Recommendations 
-Based on the results of analysis, the following recommendations are made which are referred to ... file. 
+Based on the insights given by SQL queries, recommendations are given which are found under the separate recommendationsfile.
 
 # Contact 
 If you have any questions, please feel free to contact me:
