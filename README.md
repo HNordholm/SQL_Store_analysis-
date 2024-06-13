@@ -3,7 +3,7 @@
 
 # Introduction
 
-This project aims to use SQL for analysis of a store's database to generate insights. During analysis, several questions/problems have been sovled using SQL, where a number of relational tables such as customer, employeedata, invoice distribution, music genres etc. are included.Please see the schematic of the relational database for a more detailed explanation of DB. In the analysis, CTEs, windows functions and aggregated functions were used, see script for more detailed syntax.
+This project aims to use SQL for analysis of a store's database to generate insights. During analysis, several questions/problems have been solved using SQL, where a number of relational tables such as customer, employeedata, invoice distribution, music genre are included.See the schematic of the relational database for a more detailed explanation of DB. In the analysis, CTEs, windows functions and aggregated functions were used, see script for more detailed syntax.
 
 # Prerequisites
 
@@ -11,14 +11,6 @@ SQL database(MySQL)
 
 SQL client (MySQL workbench)
 
-# Usage 
-Open your SQL client
-
-Connect to your SQL database 
-
-Copy and paste provided SQL queries 
-
-Execute to perform analysis 
 
 # Tasks to be solved
 
